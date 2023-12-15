@@ -6,3 +6,5 @@ I developed code to visualize unpublished runs of the ECCOLLC1080_REG_AMS as wel
 The model starts in 1992.
 
 Review Nakayama_et_al_2014 & Nakayama_et_al_2018 for model information.
+
+ECCO: https://ecco-group.org/.
